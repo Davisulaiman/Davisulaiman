@@ -23,6 +23,3 @@ Welcome to my GitHub! I'm a passionate developer, focused on **full-stack web de
 [![](https://visitcount.itsvg.in/api?id=DaviSulaiman&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
----
-[![](https://visitcount.itsvg.in/api?id=DaviSulaiman&icon=0&color=0)](https://visitcount.itsvg.in)
-
